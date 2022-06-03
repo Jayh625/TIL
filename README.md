@@ -14,3 +14,4 @@ Machine Learning
 	- KNeighborsRegressor
 	- RandomForest Regressor
 	- AdaBoost Regressor
+- XGBoost
