@@ -8,7 +8,9 @@ Machine Learning
 	- K_means Clustering
 	- DBSCAN
 	- HDBSCAN
-- BaggingRegressor : Boostrap + Aggregating
-- KNeighborsRegressor
-- RandomForest Regressor
-- AdaBoost Regressor
+- K-fold cross validation
+- ensemble models
+	- BaggingRegressor : Boostrap + Aggregating
+	- KNeighborsRegressor
+	- RandomForest Regressor
+	- AdaBoost Regressor
