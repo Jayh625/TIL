@@ -6,7 +6,7 @@ Classification
 - Decision Tree
 - Random Forest
 ## 2022/06/03 
-Machine Learning 
+**Machine Learning** 
 - Clustering 
 	- Hierarchical Clustering
 	- K_means Clustering
