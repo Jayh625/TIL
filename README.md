@@ -6,7 +6,7 @@ Classification
 - Decision Tree
 - Random Forest
 ## 2022/06/03 
-Machine Learning 
+**Machine Learning** 
 - Clustering 
 	- Hierarchical Clustering
 	- K_means Clustering
@@ -55,5 +55,5 @@ Machine Learning
 	- maxPlace - Worst placement we have data for in the match. This may not match with numGroups, as sometimes the data skips over placements.
 	- winPlacePerc - The target of prediction. This is a percentile winning placement, where 1 corresponds to 1st place, and 0 corresponds to last place in the match. It is calculated off of maxPlace, not numGroups, so it is possible to have missing chunks in a match.
 - Schedule 
-- 2022/06/07 ~ 2022/06/08
+### 2022/06/07 ~ 2022/06/09
 - EDA - Analize all the column in data 
