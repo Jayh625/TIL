@@ -57,3 +57,5 @@ Classification
 - Schedule 
 ### 2022/06/07 ~ 2022/06/09
 - EDA - Analize all the column in data 
+### 2022/06/10 
+Add ML project file - testing models, data preprocessing
