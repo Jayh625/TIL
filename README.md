@@ -59,3 +59,7 @@ Classification
 - EDA - Analize all the column in data 
 ### 2022/06/10 
 Add ML project file - testing models, data preprocessing
+### 2022/06/13 ~ 2022/06/14
+ML project - Feature hyperparameter tuning, training and testing models
+### 2022/06/14
+Machine Learning PCA 
